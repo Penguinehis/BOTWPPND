@@ -1,0 +1,34 @@
+{
+    "name": "Training",
+    "locale": "pt-BR",
+    "data": [
+      {
+        "intent": "SAUDACAO.RECEPCAO",
+        "utterances": [
+        "internet"
+        ],
+        "answers":[]
+      },
+      {
+        "intent": "INTENCAO.TESTE",
+        "utterances":[],
+        "answers":[]
+      },
+      {
+        "intent": "INTENCAO.IGNORAR",
+        "utterances":[],
+        "answers":[]
+      },
+      {
+        "intent": "INTENCAO.COMPRAR",
+        "utterances":[],
+        "answers":[]
+      },
+      {
+        "intent": "INTENCAO.CONTAS",
+        "utterances":[],
+        "answers":[]
+      }
+
+    ]
+  }
